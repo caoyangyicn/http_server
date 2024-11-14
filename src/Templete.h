@@ -1,0 +1,7 @@
+
+class Templete {
+private:
+
+public:
+    
+}
